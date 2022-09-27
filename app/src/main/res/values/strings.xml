@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Amit_equations_app</string>
+    <string name="instructions">Solve the equation:</string>
+    <string name="QM">question_mark</string>
+    <string name="equalsTo">equals_sign</string>
+    <string name="greaterThan">greater_than</string>
+    <string name="lessThan">less_than</string>
+    <string name="questionMark">?</string>
+    <string name="buttonTXT">Next Numbers</string>
+    <string name="small_range">-9 to 9</string>
+    <string name="medium_range">-99 to 99</string>
+    <string name="large_range">-999 to 999</string>
+    <string name="bold">bold</string>
+    <string name="colors">colors</string>
+</resources>
